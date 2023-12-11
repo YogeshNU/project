@@ -1,0 +1,213 @@
+body{
+    margin: 0%;
+}
+.top-header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(230, 238, 238);
+}
+.s-p{
+    font-weight: bolder;
+}
+.f-p{
+    word-spacing: 50px;
+}
+.bottom-header{
+    display: flex;
+    justify-content: space-around;
+    vertical-align: middle;
+
+    line-height: 40px;
+    font-weight: bolder;
+}
+/* .ali{
+    /* position: relative;
+    top: 20px; */ */
+
+.to-ma{
+    display: flex;
+    align-items: baseline;
+}
+.mr{
+    margin: 20px;
+}
+.size{
+    width: 100px;
+    height: 100px;
+}
+.si{
+    height: 5px;
+    vertical-align: middle;
+    text-align: left;
+    margin-top: 25px;  
+    padding: 15px;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    
+    /* border-top: rgb(226, 243, 248);
+    border-bottom: rgb(226, 243, 248); */
+    /* box-shadow: 0px 0px 15px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.two{
+    color: rgb(50, 166, 187);
+    font-size: xx-large;
+    font-style: italic;
+}
+.three{
+    background-color: rgb(96, 124, 219);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.four{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+    
+}
+.five{
+    width: 175px;
+    height: 175px;
+    border-radius: 10px;
+    
+}
+.seven{
+    border: 1px solid lightblue;
+    padding: 8px;
+    border-radius: 10px;
+}
+.eight{
+    margin: 10px 50px;
+}
+.nine{
+    margin: 20px 10px;
+}
+.sear{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    right: 40px;
+    top: 20px;
+}
+
+
+.eleven{
+    color: rgb(17, 136, 151);
+    background-color: pink;
+    padding: 10px;
+    width: 90px;
+    text-align: center;
+}
+.ten{
+    display: flex;
+
+}
+.thirteen{
+    display: inline;
+    margin: 20px;
+    vertical-align: middle;
+}
+.twelve{
+    background-color: rgb(169, 187, 204);
+    /* height: 50px; */
+    width: 90px;
+    /* vertical-align: middle;
+    text-align: center; */
+    padding: 10px;
+    text-align: center;
+}
+.fourteen{
+    display: flex;
+    justify-content: center;
+}
+.sixteen{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.fifteen{
+    border: 1px solid lightblue;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: left;
+    margin: 8px;
+    
+}
+[class$='d']{
+    color: gold;
+}
+.seventeen{
+    color: rgb(10, 168, 168);
+}
+.ninteen{
+    font-size: small;
+    text-decoration: line-through;
+    
+}
+.mr{
+    position: relative;
+    top: 200px;
+}
+.twenty{
+    background-color: blue;
+    border-radius: 50px;
+    width: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 380px;
+    margin: 5px;
+    height: 15px;
+    padding: 5px;
+}
+.fifteen section button{
+    margin-left: 100px;
+}
+.ten div h4{
+    position: relative;
+    left: 50px;
+}
+.twentyfour div{
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 8px;
+    
+}
+.twentyfour{
+    display: flex;
+    justify-content: center;
+
+}
+.twentyfour div img{
+    width: 250px ;
+    height: 250px;
+    border-radius: 10px;
+}
+.twentyfour div button{
+    margin-left: 100px;
+}
+.twentyfour div .twentysix{
+    background-color: blue;
+    border-radius: 50px;
+    width: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 380px;
+    margin: 5px;
+    height: 15px;
+    padding: 5px;
+
+}
+.twentyfour div .twentyseven{
+    color: rgb(10, 168, 168);
+
+}
+.twentyfour div span:nth-child(11){
+    font-size: small;
+    text-decoration: line-through;
+
+}
