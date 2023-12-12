@@ -211,3 +211,43 @@ body{
     text-decoration: line-through;
 
 }
+.thirty h4:nth-child(4){
+    margin-top: -20px;
+}
+.thirty span:nth-child(5){
+    color: orangered;
+    font-weight: bolder;
+
+}
+.thirty span:nth-child(6){
+    text-decoration: line-through;
+    font-weight: bolder;
+}
+.thirty h1{
+    color: rgb(23, 183, 183);
+}
+.thirty h5{
+    color: rgb(118, 111, 111);
+}
+.thirty h6{
+    color: rgb(118, 111, 111);
+}
+.thirty div span:nth-child(1){
+    width: 30px;
+    background-color: green;
+    border-radius: 5px;
+    padding: 10px;
+}
+.thirty div h5{
+    padding: 3px;
+    margin-top: 8px;
+}
+.thirty .box{
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+
+}
+.thirty div span:nth-child(2){
+    padding: 20px;
+}
